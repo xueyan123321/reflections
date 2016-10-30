@@ -1,0 +1,16 @@
+How did viewing a diff between two versions help you spot the bug?
+very often the old versions code can work, but the new one can't. The bugs must come from the diffs. If you can see the diffs clearly, it will be very efficient to find the bug. Cause you exclude the part of the old version.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Sometimes we add some new functions to our programs, but laterly we regret it. We still need the old version. 
+
+Why do you think some version control systems, like git, allow saving multiple files in one commit, while others, like google Docs, treat each file separately?
+
+I think git version control is more suitable for programers,because very often the files are interrelated. If you want to add some new things in you program, you need to change not only one place.
+
+How can you use the commands git log and git diff to view the history of files?
+git log can help me view repository. Git diff can help me find the diffs between two files in the history of files.
+
+How might using version control make you more confident to make changes that could break something?
+
+I think if you can return to an old version whenever you want, you don't need to worry about that you mess the program up.
