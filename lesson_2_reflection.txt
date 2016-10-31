@@ -14,3 +14,6 @@ when you want to categorise these editions.
 
 How do the diagrams help you visualize the branch structure?
 graph is more vivid than the words.
+
+what is the result of merging two branches together? why do we represent it in the diagram the way we do?
+for merging, you need to compare to the original files. The result is adding two people's work together.
