@@ -1,0 +1,16 @@
+what happens when you initialize a repository? why do you need to do it?
+Maybe when I create a progect and need to have various editions. It's very easy to make some changes and debug.
+
+How is the staging area different from the working directory and the repository? what value do you think it offers?
+
+I think staging area is a place where you can add your changes, and you can commit them in one commit.it's just like a buffer.
+
+How can you use the staging area to make sure you have one commit per logical change?
+when you add files to staging area, you need to think about it whether it is a logical change. Write the proper message when you commit.
+
+what are some situations when branches would be helpful in keeping your history organized? how would branches help?
+
+when you want to categorise these editions.
+
+How do the diagrams help you visualize the branch structure?
+graph is more vivid than the words.
