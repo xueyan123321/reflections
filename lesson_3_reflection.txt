@@ -3,3 +3,10 @@ when I want to collebrate with others or share somethings with others.
 
 Why might you want to always pull changes manually rather than having git automatically stay up-to-date with your remote repository?
 sometimes, you only want to do somethings by yourself and don't want others to see it. You wouldn't like to share with others.
+
+describe the difference between forks, clones, and branches. When would you use one instead of another?
+
+forks are about cloning the repository in github, while clones mainly are involved in cloning repository from the github server.
+
+what is the benefit of having a copy of the last known state of the remote stored locally?
+If you have a copy of the last known state of the remote stored locally, it will be very convenient for you to know the changes in the remote after you pulling the remote. 
